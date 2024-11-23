@@ -2,7 +2,7 @@
 
 ## Requisitos de Funcionamiento
 1. Tener el archivo ejecutable `ConsultaPredial.exe`
-2. Tener el archivo `predios_unidos_completos.csv` en la misma carpeta que el ejecutable
+2. Tener el archivo `predios.csv` en la misma carpeta que el ejecutable
 3. Ambos archivos deben estar en la misma carpeta para que el programa funcione correctamente
 
 ## ¿Cómo Realizar Consultas?
@@ -17,7 +17,7 @@ El programa permite dos tipos de búsqueda:
 1. **Por NUMERO PREDIAL (30 dígitos)**
    - Seleccionar "NUMERO PREDIAL" en el menú desplegable
    - Ingresar el número completo o parcial
-   - Ejemplo: "08078000100000001000"
+   - Ejemplo: "080780004000000000679000000000"
    - La búsqueda funciona con números parciales
 
 2. **Por FMI (Folio de Matrícula Inmobiliaria)**
@@ -31,7 +31,6 @@ Cada consulta mostrará:
 - NUMERO PREDIAL (30 dígitos)
 - NUMERO PREDIAL ANTERIOR
 - FMI (Folio de Matrícula)
-- MI AQUIA
 - CÓDIGO PREDIO
 - CÓDIGO DEPARTAMENTO
 - CÓDIGO MUNICIPIO
