@@ -72,7 +72,9 @@ Cada consulta mostrará:
 
 Descarga del Programa
 Google Drive
-📥 [Descargar ConsultaPredial v1.0 (Windows)]([https://drive.google.com/file/d/1TiKMjoCMk0ZebFzlDFOfQrjt6koT_9sD/view?usp=drive_link](https://drive.google.com/file/d/1TiKMjoCMk0ZebFzlDFOfQrjt6koT_9sD/view?usp=drive_link))
+| Versión | Enlace | Descripción |
+|---------|--------|-------------|
+| v1.0 | [Descargar](https://drive.google.com/file/d/1TiKMjoCMk0ZebFzlDFOfQrjt6koT_9sD/view?usp=drive_link) | Versión inicial del programa |
 Contenido del Archivo Descargado
 El archivo ZIP contiene:
 
