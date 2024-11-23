@@ -54,6 +54,8 @@ Cada consulta mostrará:
    - Escribir "123" (mostrará todos los predios cuyo FMI contenga estos números)
    - Click en "Buscar"
 
+![Interfaz de Consulta Predial](./consulta.jpg)
+
 ## Notas Importantes
 - El programa necesita que el archivo CSV esté en la misma carpeta
 - Si el archivo CSV no está presente, el programa solicitará seleccionarlo
